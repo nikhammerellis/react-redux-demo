@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.inline {
+  display: inline;
+}
+.block {
+  display: block;
+  margin-top: 25px;
+}
+.pull-up {
+  margin-top: -20px;
+}
+.slim-right {
+  margin-right: -50px;
+}
+.image-upload {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #E8E8E8;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.image {
+  border: 1px solid black;
+  /*border-radius: 5px;*/
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.custom-pic-glyph {
+  font-size: 50px;
+  margin-top: 45px;
+  margin-left: 20px;
+}
+.custom-add-glyph {
+  position: relative;
+  top: 35px;
+  left: 15px;
+}
+.custom-delete-glyph {
+
+}
+.preview-spacing {
+  margin-bottom: 15px;
+}
+p.photos {
+  margin-top: 25px;
+  margin-left: 15px;
+  color: #BEBEBE;
+  font-weight: bold;
+}
